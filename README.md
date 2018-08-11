@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## Bem vindo ao Github Pages xD
 
-You can use the [editor on GitHub](https://github.com/henriao/horasalgados/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Você pode usar o [editor on GitHub](https://github.com/henriao/horasalgados/edit/master/README.md) para manter e visualizar o conteúdo do seu site nos arquivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sempre que você se compromete com o repositório, As páginas do Github serão executadas [Jekyll](https://jekyllrb.com/) para reconstruir as páginas do seu site ,a partir do conteúdo dos arquivos do Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+O Markdown é uma sintaxe leve e fácil de usar para estilizar sua escrita. Inclui convenções para
 ```markdown
 Syntax highlighted code block
 
